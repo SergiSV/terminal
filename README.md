@@ -1,2 +1,1 @@
-# terminal
-#2
+# terminal homework
